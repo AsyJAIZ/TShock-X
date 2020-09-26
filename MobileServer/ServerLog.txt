@@ -1,0 +1,7 @@
+[09.26.20 16:16:42] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[09.26.20 16:16:42] [Server API] Verbose: 	Command line: "C:\Users\Andrey\Desktop\TShockMobile-master\MobileServer\TerrariaServer.exe" -worldpath "C:\Users\Andrey\Documents\My Games\Terraria\Mobile\Worlds"
+[09.26.20 16:16:42] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[09.26.20 16:16:42] [Server API] Verbose: 	Mono: False
+[09.26.20 16:16:43] [TShock] Info: :   Default world path set to "\Worlds"
+[09.26.20 16:16:43] [TShock] Info: World path has been set to C:\Users\Andrey\Documents\My Games\Terraria\Mobile\Worlds
+[09/26/20 16:16:43] [Server API] Info: Plugin TShock v4.3.26.0 (by The TShock Team) initiated.
