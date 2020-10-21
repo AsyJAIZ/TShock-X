@@ -1,6 +1,6 @@
-# TShockMobile
+# TShock X (cross-platform)
 
- Compileable version of TShock compatible with mobile
+ Compileable version of TShock compatible with mobile and PC
  
 [User Docs](https://tshock.readme.io/docs/getting-started)
 
@@ -43,4 +43,4 @@
 6. Done!
 
 (might need to replace the OTAPI= referenced in TShockAPI with the same OTAPI referenced by TerrariaServerAPI)
-"# TShock-Mobile-v4.23.6.0-1.3.0.7" 
+"# TShock-X" 
